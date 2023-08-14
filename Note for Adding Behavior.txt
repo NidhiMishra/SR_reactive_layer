@@ -1,0 +1,11 @@
+1. Create Server (Generate specific perceptualInput for activiation updating)
+2. Add Server to Threading
+3. Create Behavior (React to the perceptualInput)
+4. Add Behavior to InitBehavior
+
+
+What BB_Object need to do:
+1. always update current objects, detect if new object appears
+2. report the new added object automatically
+3. report all current objects if requried (by speech) 
+4. if in skype mode, stop.

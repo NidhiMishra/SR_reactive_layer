@@ -1,0 +1,2 @@
+[Settings]
+C/C++ --> Preprocessor --> WIN32_LEAN_AND_MEAN
